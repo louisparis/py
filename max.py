@@ -1,3 +1,7 @@
+"""
+Find max number
+@louisparis
+"""
 def find_max(num):
     max = num[0]
     for x in num:
