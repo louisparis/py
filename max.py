@@ -1,5 +1,5 @@
 """
-Find max number
+Find the max number
 @louisparis
 """
 def find_max(num):
